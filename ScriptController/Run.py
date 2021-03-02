@@ -341,7 +341,7 @@ app = Application()
 # 设置窗口标题:
 app.master.title('manim动画引擎命令工具')
 # 不可拉伸宽高
-# app.master.resizable(False, False)
+app.master.resizable(False, False)
 x = app.winfo_screenwidth()
 y = app.winfo_screenheight()
 # 三分之一屏幕居中
