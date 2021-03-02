@@ -9,7 +9,7 @@
 ![1](doc/Snipaste_2021-03-03_06-42-25.png)
 ### 啊舒服了 ↓
 ![1](doc/Snipaste_2021-03-03_06-35-21.png)
-#相关链接
+# 相关链接
 [安装教学视频](https://www.bilibili.com/video/BV1ap4y1C7NF) ~~这个真的傻瓜安装教程~~   
 [安装教学文档](https://www.bilibili.com/read/cv4139851) 搭配上面的教学是哦使用    
 [官方文档](https://3b1b.github.io/manim/index.html) 这个东西没事查查就行了，主要还是得多玩玩
